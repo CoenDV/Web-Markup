@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<meta name="keyword" content="Student, Computer, webshop" />
+		<meta name="description" content="Student Inc. een denkbeeldig bedrijf dat online computers verkoopt" />
+		<meta name="author" content="Coen de Vries" />
+		
+		<title> Student Inc.</title>
+	</head>
+	<body>
+		<h1> Student Inc. / product page</h1>
+		<a href="index.html"> Home page</a>
+		<a href="product.html"> Product page</a>
+		<a href="contact.html"> Contact page</a>
+		<table>
+			<tr>
+				<th>  </th>
+				<th> price </th>
+				<th> operating system </th>
+				<th> processor </th>
+				<th> videokaart </th>
+				<th> werkgeheugen </th>
+			</tr>
+			<tr>
+				<td> Student Dev Pro </td>
+				<td> &euro;2,319.99 </td>
+				<td> Windows 10 Home 64</td>
+				<td> Intel&reg; Core&trade; i7-7700HQ &#40;2.8 GHz, up to 3.8 GHz, 6MB cache&#41; </td>
+				<td> NVIDIA&reg; GeForce&reg; GTX 1080 &#40;8GB GDDR5X dedicated&#41; </td>
+				<td> 32GB DDR4-2400 SDRAM; 512GB PCIe&reg; NVMe&trade; M.2 SSD; 1TB SATA </td>
+			</tr>
+			<tr>
+				<td> Student Basic </td>
+				<td> &dollar;899.99 </td>
+				<td> Windows 10 Home 64 </td>
+				<td> Intel&reg; Core&trade; i7-8750H &#40;2.2 GHz, up to 4.1 GHz, 9MB cache&#41; </td>
+				<td> NVIDIA&reg; GeForce&reg; GTX 1050 &#40;2GB GDDR5 dedicated&#41; </td>
+				<td> 8GB DDR4-2666 SDRAM; 1TB 7200 rpm SATA</td>
+			</tr>
+			<tr>
+				<td> Student Gamer PC </td>
+				<td> &pound;1,299.99 </td>
+				<td> Windows 10 Home 64 </td>
+				<td> Intel&reg; Core&trade; i7-8750H &#40;2.2 GHz, up to 4.1 GHz, 9MB cache&#41; </td>
+				<td> NVIDIA&reg; GeForce&reg; GTX 1060 &#40;6GB GDDR5 dedicated&#41; </td>
+				<td> 16GB DDR4-2666 SDRAM; 1TB 7200 rpm SATA; 16GB PCIe&reg; NVMe&trade; Intel&reg; </td>
+			</tr>
+			
+		</table>
+		
+	</body>
+</html>

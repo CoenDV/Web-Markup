@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<meta name="keyword" content="Student, Computer, webshop" />
+		<meta name="description" content="Student Inc. een denkbeeldig bedrijf dat online computers verkoopt" />
+		<meta name="author" content="Coen de Vries" />
+		
+		<title> Student Inc.</title>
+	</head>
+	<body>
+		<h1> Student Inc. / homepage</h1>
+		
+		<a href="index.html"> Home page</a>
+		<a href="product.html"> Product page</a>
+		<a href="contact.html"> Contact page</a>
+		
+		<p>
+			Student Inc. verkoopt computers door middel van een webpage. 
+			Hier op is te vinden wat voor specs de computer heeft en welke prijs hier bij komt kijken. 
+			Ook wordt er aan geraden welke computers voor welk gebruik geschikt zijn, 
+			mocht je er nog steeds niet uitkomen kan je altijd contact opnemen met ons bedrijf.
+		</p>
+		
+		<h2> 3 redenen om bij ons te kopen </h2>
+		<ol> 
+			<li> Goede prijs kwaliteit verhouding </li>
+			<li> Snelle levering </li>
+			<li> Goede service </li>
+		</ol>
+		
+		<img src="img/bedrijfspand.jpg" alt="kantoor pand" title="Ons bedrijf pand">
+		
+		<h2> &copy; Student Inc.</h2>
+	</body>
+</html>
