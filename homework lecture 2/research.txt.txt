@@ -1,0 +1,23 @@
+Research work:
+•	Find out why it is not smart to use <a href=mailto:yourname@domain.com> mail to company</a> as method on a company webpage.  
+		 bots kunnen makkelijk aan het email adres komen en zullen het email adres gaan spammen
+
+•	Why you should not use put contact information into a table. 
+		
+•	Why you should not use put contact information into a list. 
+		
+•	What is Search Engine Optimisation (SEO)?
+		Er voor zorgen dat een website zo gemaakt is dat het makkelijker naar voor komt in de zoekresultaten
+
+•	What is the difference between SEO and ASO?
+		ASO wordt gezien als de SEO voor apps, het verschil is dat ASO niet alleen op search wordt geoptimaliseerd maar ook op Explore.
+
+•	Find out to write “meta descriptions” and a good “title” (<title>) for SEO.  
+		To write the best page titles and meta descriptions, you must… om goede meta titles en describtions te schrijven moet er op het volgende gelet worden:
+		- maak het uniek
+		- zorg er voor de ze het juiste aantal karakters hebben (title: 30-60) (describtion: 70-130)
+		- gebruik keywords die bij het onderwerp horen
+		- maar geen keywords door douwen
+		- maak gebruik van psychologische trigger words (zoals: Learn, Save, Discover, Proven, Exclusive, Solve)
+
+https://exposureninja.com/blog/how-to-write-meta-titles-and-descriptions/ 
