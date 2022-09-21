@@ -16,21 +16,23 @@
 			<a href="contact.html" > Contact </a>
 		</nav>
 	</header>
-		<article>
-			<p> Lorem ipsum </p>
-			<p> Lorem ipsum </p>
-			<p> Lorem ipsum </p>
-			<figure>
-				<img src="img/image.jpg" alt="Computer scherm" title="Computer scherm"/>
-			</figure>
-			<p> Lorem ipsum </p>
-			<p> Lorem ipsum </p>
-		</article>
-		<aside>
-			<p>Lorem ipsum </p>
-		</aside>
-		<footer>
-			&copy; 2001
-		</footer>
+	<form action="contact.php" method="POST" >
+		<h1> GET IN TOUCH </h1>
+		
+		<label >Tell us your name: </label>
+		<input type="text">
+		
+		<label> Enter your Email: </label>
+		<input type="email">
+		
+		<label> Your website: </label>
+		<input type="text">
+		
+		<label> Message: </label>
+		<textarea> </textarea>
+	</form>
+	<footer>
+		&copy; 2001
+	</footer>
 	</body>
 </html>
