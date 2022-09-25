@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<meta name="keyword" content="Student, Computer, webshop" />
+		<meta name="description" content="Student Inc. een denkbeeldig bedrijf dat online computers verkoopt" />
+		<meta name="author" content="Coen de Vries" />
+		
+		<title> Student Inc.</title>
+	</head>
+	<body>
+	<main>
+		<h1> Student Inc. / homepage</h1>
+		
+		<a href="index.html"> Home page</a>
+		<a href="product.html"> Product page</a>
+		<a href="contact.html"> Contact page</a>
+		
+		<p>
+			<mark> Student Inc. </mark> verkoopt computers door middel van een webpage. 
+			Hier op is te vinden wat voor specs de computer heeft en welke prijs hier bij komt kijken. 
+			Ook wordt er aan geraden welke computers voor welk gebruik geschikt zijn, 
+			mocht je er nog steeds niet uitkomen kan je altijd contact opnemen met ons bedrijf.
+		</p>
+		<p>
+			Het is nu <time>21:57</time> op de klok
+		</p>
+		<details>
+			<summary>3 redenen om bij ons te kopen </summary>
+			<ol> 
+				<li> Goede prijs kwaliteit verhouding </li>
+				<li> Snelle levering </li>
+				<li> Goede service </li>
+			</ol>
+		</details>
+
+		<figure>
+			<img src="public_html/img/Bedrijfspand.jpg" alt="kantoor pand" title="Ons bedrijf pand">
+			<figcaption>Fig.1 - kantoor pand</figcaption>
+		</figure>
+		<video width="320" height="240" autoplay muted>
+			<source src="videos/movie1.mp4" type="video/mp4">
+			<source src="videos/movie1.ogv" type="video/ogv">
+			Your browser does not support the video tag.
+		</video>
+	</main>
+	
+	<footer>
+		<h2> &copy; Student Inc.</h2>
+	</footer>
+	</body>
+</html>
