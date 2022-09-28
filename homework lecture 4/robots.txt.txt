@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /forbidden/secret.txt
+Sitemap: https://coeninholland.000webhostapp.com/sitemap.xml

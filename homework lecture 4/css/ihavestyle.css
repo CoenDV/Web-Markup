@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+
+@font-face {
+    font-family: Bungee;
+    src:url("../fonts/BungeeSpice-Regular.ttf");
+}
+
+@font-face {
+    font-family: Oswald;
+    src:url("../fonts/Oswald-VariableFont_wght.ttf");
+}
+
+body {
+	background-color: #B4B4B4 ;
+}
+
+header {
+	background-color: #6A5ACD ;
+	color: #3CB371 ;
+	font-family: Lucida Console ;
+}
+
+table {
+	border-style: solid ;
+	border-width: 1px ;
+	border-color: rgb(0,0,0) ;
+	background-color: #FFFFFF ;
+	font-family: Lucida Handwriting ;
+}
+
+th {
+	font-style: bold ;
+	font-family: Bungee;
+}
+
+td {
+	font-style: italic ;
+	font-family: Oswald ;
+}
+
+legend {
+	background-color: #6A5ACD ;
+	color: #3CB371;
+	font-family: 'Roboto' ;
+}
+
+input[type=submit] {
+	background-color: #6A5ACD ;
+	color: #3CB371 ;
+}
+
+forms {
+	font-family: Verdana;
+}
+
+label {
+	color: #616161 ;
+}
+
+p {
+	color: #616161 ;
+	font-family: Helvetica ;
+}

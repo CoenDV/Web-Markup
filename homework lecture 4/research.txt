@@ -1,0 +1,17 @@
+-	What is a codec? 
+	Een codec is soft- of hardware die toelaat data te coderen/decoderen of te comprimeren/decomprimeren. Het betreft een vorm van broncodering. 
+	Er bestaan codecs om bijvoorbeeld geluid of beeld te coderen in een handelbaar bestandsformaat met behoud van een zeker kwaliteitsniveau
+
+-	Experiment with different file formats like webm, mp3, mp4, ovg and ogg on different web browsers. 
+-	Experiment with different music and movie controllers on different web browsers.
+-	Try to implement WebM on a Safari web browser 😊
+-	Try to implement the following semantic elements:
+o	<details>
+o	<figcaption>
+o	<figure>
+o	<main>
+o	<mark>
+o	<summary>
+o	<time>
+-	Create a folder "/forbidden" containing a secret.txt with your student number in it.
+-	Create a file called robots.txt and add some features like “User-agent”, “Disallow” and a sitemap.xml. More information about robots and sitemaps : 
