@@ -1,0 +1,11 @@
+body {
+ background-image: url("../img/back.jpg");
+ background-repeat: no-repeat;
+ background-size: cover;
+}
+
+main  {
+		width: 600px;
+		border: solid 1px black;
+		margin: auto;
+}

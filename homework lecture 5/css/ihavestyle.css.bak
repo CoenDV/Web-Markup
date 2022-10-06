@@ -1,0 +1,161 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+
+@font-face {
+    font-family: Bungee;
+    src:url("../fonts/BungeeSpice-Regular.ttf");
+}
+
+@font-face {
+    font-family: Oswald;
+    src:url("../fonts/Oswald-VariableFont_wght.ttf");
+}
+
+body {
+	background-color: #B4B4B4 ;
+	width:800px ;
+	margin: auto ;
+	outline-style: hidden;
+}
+
+header {
+	background-color: #6A5ACD ;
+	color: #3CB371 ;
+	font-family: Lucida Console ;
+	outline-style: outset;
+}
+
+table {
+	border-style: solid ;
+	border-width: 1px ;
+	border-color: rgb(0,0,0) ;
+	background-color: #FFFFFF ;
+	font-family: Lucida Handwriting ;
+}
+
+th {
+	font-style: bold ;
+	font-family: Bungee;
+	outline-style: solid;
+	outline-color: #ABC;
+}
+
+td {
+	font-style: italic ;
+	font-family: Oswald ;
+	outline-style: dotted;
+	outline-width: 1px ;
+	outline-offset: 1px;
+}
+
+td:nth-child(even) {
+	background-color: #CCF;
+	outline-style: dashed;
+}
+
+td:nth-child(odd) {
+	background-color: #FFC;
+	outline-style: double;
+}
+
+td:nth-child(4) {
+	background-color: #FFF;
+	outline-style: groove;
+}
+
+legend {
+	background-color: #6A5ACD ;
+	color: #3CB371;
+	font-family: 'Roboto' ;
+	outline-style: ridge;
+}
+
+input[type=submit] {
+	background-color: #6A5ACD ;
+	color: #3CB371 ;
+	outline-style: inset;
+}
+
+forms {
+	font-family: Verdana;
+}
+
+label {
+	color: #616161 ;
+}
+
+p {
+	color: #616161 ;
+	font-family: Helvetica ;
+}
+
+figure {
+	overflow: scroll ;
+	outline-style: none;
+}
+
+a:first-of-type {
+	background-color: #FFF;
+}
+
+a:last-of-type {
+	background-color: #FFF;
+}
+
+p:nth-last-child(even) {
+  background: blue;
+}
+
+#big {
+	font-size: 1.5em; /* 1.5 x 16 px = 24px */
+}
+
+#caption {
+	font-size: 0.75em; /* 0.75 x 16 px = 12px */
+	font-style: italic;
+}
+
+#header {
+	font-size: 200%;
+}
+
+.TableHeadRed {
+	background-color: #F00;
+}
+
+.TableHeadBlue {
+	background-color: #00F;
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+  width: 100px;
+  height: 30px;
+  background-color: #EFF;
+  outline-style: dotted;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  padding: 12px 16px;
+  z-index: 1;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+nav > ul {
+	list-style-type: none;
+	border: solid black 1px;
+}
+
+nav > ul > li{
+	border: solid black 1px;
+	width: 100%;
+	padding: 0px;
+}

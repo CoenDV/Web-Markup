@@ -1,0 +1,3 @@
+student name: Coen de Vries
+student number: 668358
+student class: HAINFVT1D 

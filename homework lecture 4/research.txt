@@ -1,17 +1,113 @@
--	What is a codec? 
-	Een codec is soft- of hardware die toelaat data te coderen/decoderen of te comprimeren/decomprimeren. Het betreft een vorm van broncodering. 
-	Er bestaan codecs om bijvoorbeeld geluid of beeld te coderen in een handelbaar bestandsformaat met behoud van een zeker kwaliteitsniveau
+•	CSS Overflow property (visible, hidden, scroll, auto, initial, inherit)
+The overflow property specifies whether to clip the content or to add scrollbars when the content of an element is too big to fit in the specified area.
+The overflow property has the following values:
+visible - Default. The overflow is not clipped. The content renders outside the element's box
+hidden - The overflow is clipped, and the rest of the content will be invisible
+scroll - The overflow is clipped, and a scrollbar is added to see the rest of the content
+auto - Similar to scroll, but it adds scrollbars only when necessary
 
--	Experiment with different file formats like webm, mp3, mp4, ovg and ogg on different web browsers. 
--	Experiment with different music and movie controllers on different web browsers.
--	Try to implement WebM on a Safari web browser 😊
--	Try to implement the following semantic elements:
-o	<details>
-o	<figcaption>
-o	<figure>
-o	<main>
-o	<mark>
-o	<summary>
-o	<time>
--	Create a folder "/forbidden" containing a secret.txt with your student number in it.
--	Create a file called robots.txt and add some features like “User-agent”, “Disallow” and a sitemap.xml. More information about robots and sitemaps : 
+•	CSS Background (color, image, repeat, attachment, position, sizes)
+background-color: a valid color name - like "red",	 a HEX value - like "#ff0000",	 an RGB value - like "rgb(255,0,0)"
+
+background-image: The background-image property specifies an image to use as the background of an element. By default, the image is repeated so it covers the entire element.
+background-image: url("paper.gif");
+
+background-repeat: 
+By default, the background-image property repeats an image both horizontally and vertically.
+background-repeat: repeat|repeat-x|repeat-y|no-repeat|initial|inherit;
+
+background-attachment: 
+The background-attachment property specifies whether the background image should scroll or be fixed (will not scroll with the rest of the page):
+background-attachment: scroll|fixed|local|initial|inherit;
+
+background-position: 
+The background-position property sets the starting position of a background image.
+
+•	CSS Text (align, decoration, transform, indentation, direction, shadow)
+Align: The text-align property is used to set the horizontal alignment of a text.
+When the text-align property is set to "justify", each line is stretched so that every line has equal width, and the left and right margins are straight 
+
+decoration: text-decoration: text-decoration-line text-decoration-color text-decoration-style text-decoration-thickness|initial|inherit;
+
+transform: text-transform: none|capitalize|uppercase|lowercase|initial|inherit;
+
+indentation: 
+	letter-spacing	Specifies the space between characters in a text
+	line-height	Specifies the line height
+	text-indent	Specifies the indentation of the first line in a text-block
+	white-space	Specifies how to handle white-space inside an element
+	word-spacing	Specifies the space between words in a text
+
+direction: direction: ltr|rtl|initial|inherit;
+
+shadow: text-shadow: h-shadow v-shadow blur-radius color|none|initial|inherit;
+
+•	CSS Filers (blur, brightness, contrast, drop shadow, rotate hue, invest, change the opacity, saturate, sepia and grayscale) an image.  
+filter: none | blur() | brightness() | contrast() | drop-shadow() | grayscale() | hue-rotate() | invert() | opacity() | saturate() | sepia() 
+
+
+blur(px)	Applies a blur effect to the image. A larger value will create more blur.
+If no value is specified, 0 is used.	
+
+
+brightness(%)	Adjusts the brightness of the image.
+
+0% will make the image completely black.
+100% (1) is default and represents the original image.
+
+
+contrast(%)	Adjusts the contrast of the image.
+
+0% will make the image completely black.
+100% (1) is default, and represents the original image.
+Values over 100% will provide results with more contrast.	
+
+
+drop-shadow(h-shadow v-shadow blur spread color)	Applies a drop shadow effect to the image.
+
+Possible values:
+h-shadow - Required. Specifies a pixel value for the horizontal shadow. Negative values place the shadow to the left of the image.
+
+v-shadow - Required. Specifies a pixel value for the vertical shadow. Negative values place the shadow above the image.
+
+blur - Optional. This is the third value, and must be in pixels. Adds a blur effect to the shadow. A
+
+spread - Optional. This is the fourth value, and must be in pixels. Positive values will cause the shadow to expand and grow bigger, a
+nd negative values will cause the shadow to shrink. 
+
+color - Optional. Adds a color to the shadow. If not specified, the color depends on the browser (often black).
+
+
+grayscale(%)	Converts the image to grayscale.
+
+0% (0) is default and represents the original image.
+100% will make the image completely gray (used for black and white images).
+
+
+hue-rotate(deg)	Applies a hue rotation on the image. 
+The value defines the number of degrees around the color circle the image samples will be adjusted. 0deg is default, and represents the original image.
+
+
+invert(%)	Inverts the samples in the image.
+
+0% (0) is default and represents the original image.
+100% will make the image completely inverted.
+
+
+opacity(%)	Sets the opacity level for the image. The opacity-level describes the transparency-level, where:
+
+0% is completely transparent.
+100% (1) is default and represents the original image (no transparency).
+
+
+saturate(%)	Saturates the image.
+
+0% (0) will make the image completely un-saturated.
+100% is default and represents the original image.
+Values over 100% provides super-saturated results.
+
+
+sepia(%)	Converts the image to sepia.
+
+0% (0) is default and represents the original image.
+100% will make the image completely sepia.
