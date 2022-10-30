@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta name="description" content="Gym innovations, technologies and innovations">
+		<meta name="keyword" content="gym, supplements, tools, technology, innovations">
+		<meta name="author" content="Coen de Vries">
+		
+		<title>Gym Innovations/Pricing</title>
+		
+		<link rel="stylesheet" type="text/css" href="css/style.css">
+		<link rel="icon" type="image/x-icon" href="img/favicon.ico">
+	</head>
+	<body>
+	
+		<header class="main-header">
+			<img src="img/logo.png" alt="Bicep curl logo" title="bicep curl logo">
+			<h1>Gym Innovations</h1>
+			<h2>Whats new&#63;</h2>
+		</header>
+		
+		<nav>
+			<img src="img/burger.png" alt="burger menu" title="burger menu">
+			<ul id="menu">
+				<li> <a href="index.html"> Home </a> </li>
+				<li> <a href="product.html"> Product </a> </li>
+				<li> <a href="contact.html"> Contact </a> </li>
+			</ul>
+		</nav>
+		
+		<main id="main-pricing">
+			<article>
+				<h3 style="width:100%;">What you need</h3>
+				All that is needed for the service is to have a portable device with stable internet connection to either watch and follow videos 
+				or host a livestream &#40;with an app such as teams or zoom&#41;.
+				The portable device adviced would be a laptop or tablet with a big screen. mobile phones often have too small screens to see all details of an excersice.
+			</article>
+			<table>
+			<caption>Source of data &copy; 2022</caption>
+			<tr>
+				<th>product number</th>
+				<th>product name</th>
+				<th>product description</th>
+				<th>price</th>
+				<th>subscription&#63;</th>
+			</tr>
+			<tr>
+				<td>1</td>
+				<td>Online coaching basic</td>
+				<td>access to videos, diet schemes</td>
+				<td>&euro;10</td>
+				<td>Yes</td>
+			</tr>
+			<tr>
+				<td>2</td>
+				<td>Online coaching normal</td>
+				<td>access to basic and small class livestreams</td>
+				<td>&euro;15</td>
+				<td>Yes</td>
+			</tr>
+			<tr>
+				<td>3</td>
+				<td>Online coaching advanced</td>
+				<td>access to normal and private livestreams</td>
+				<td>&euro;20</td>
+				<td>Yes</td>
+			</tr>
+			<tr>
+				<td>4</td>
+				<td>Online coaching Pro</td>
+				<td>access to advanced and 24&#47;7 livestreams</td>
+				<td>&euro;25</td>
+				<td>Yes</td>
+			</tr>
+			<tr>
+				<td>5</td>
+				<td>5kg Dumbbells</td>
+				<td>2 5kg dumbbells</td>
+				<td>&euro;15</td>
+				<td>No</td>
+			</tr>
+			<tr>
+				<td>6</td>
+				<td>7.5kg Dumbbells</td>
+				<td>2 7.5kg dumbbells</td>
+				<td>&euro;25</td>
+				<td>No</td>
+			</tr>
+			<tr>
+				<td>7</td>
+				<td>10kg Dumbbells</td>
+				<td>2 10kg dumbbells</td>
+				<td>&euro;30</td>
+				<td>No</td>
+			</tr>
+			<tr>
+				<td>8</td>
+				<td>12.5kg Dumbbells</td>
+				<td>2 12.5kg dumbbells</td>
+				<td>&euro;35</td>
+				<td>No</td>
+			</tr>
+			<tr>
+				<td>9</td>
+				<td>15kg Dumbbells</td>
+				<td>2 15kg dumbbells</td>
+				<td>&euro;40</td>
+				<td>No</td>
+			</tr>
+			<tr>
+				<td>10</td>
+				<td>17.5kg Dumbbells</td>
+				<td>2 17/5kg dumbbells</td>
+				<td>&euro;45</td>
+				<td>No</td>
+			</tr>
+			<tr>
+				<td>11</td>
+				<td>20kg Dumbbells</td>
+				<td>2 20kg dumbbells</td>
+				<td>&euro;50</td>
+				<td>No</td>
+			</tr>
+			<tr>
+				<td>12</td>
+				<td>10kg kettle bells</td>
+				<td>2 10kg kettle bells</td>
+				<td>&euro;20</td>
+				<td>No</td>
+			</tr>
+			<tr>
+				<td>13</td>
+				<td>15kg kettle bells</td>
+				<td>2 15kg kettle bells</td>
+				<td>&euro;30</td>
+				<td>No</td>
+			</tr>
+			<tr>
+				<td>14</td>
+				<td>20kg kettle bells</td>
+				<td>2 20kg kettle bells</td>
+				<td>&euro;40</td>
+				<td>No</td>
+			</tr>
+			<tr>
+				<td>15</td>
+				<td>Bidon</td>
+				<td>750mL</td>
+				<td>&euro;10</td>
+				<td>No</td>
+			</tr>
+			<tr>
+				<td>16</td>
+				<td>Shaker</td>
+				<td>1L</td>
+				<td>&euro;10</td>
+				<td>No</td>
+			</tr>
+			<tr>
+				<td>17</td>
+				<td>Wrist wraps</td>
+				<td>with 30cm wrap</td>
+				<td>&euro;20</td>
+				<td>No</td>
+			</tr>
+			<tr>
+				<td>18</td>
+				<td>Belt</td>
+				<td>to support lower back</td>
+				<td>&euro;20</td>
+				<td>No</td>
+			</tr>
+			<tr>
+				<td>19</td>
+				<td>Barbell with plates</td>
+				<td>20kg barbell, total 100kg plates</td>
+				<td>&euro;125</td>
+				<td>No</td>
+			</tr>
+			<tr>
+				<td>20</td>
+				<td>Bench</td>
+				<td>adjustible bench</td>
+				<td>&euro;100</td>
+				<td>No</td>
+			</tr>
+		</table>
+		
+		<aside>
+		
+			<section id="pricing-section1">
+				<figure>
+					<a href="https://www.inholland.nl/"> <img src="img/dumbbells.jpg" alt="2 dumbbells" title="2 variable dumbbells"> </a>
+					<figcaption>Fig.1 - copyright <a href="https://www.fitnessapparaat.nl/artikel/19690/virtufit-verstelbare-dumbbellset-halterset-vinyl-zwart-2-x-15-kg-30-kg.html">Fitnessapparaat</a> </figcaption>
+				</figure>
+				<h3>2 20kg dumbbells for the price of &euro;50.</h3>
+			</section>
+			
+			<section id="pricing-section2">
+				<figure>
+					<a href="https://www.inholland.nl/"> <img src="img/kettlebell.jpg" alt="10kg kettlebell" title="a 10kg kettlebell"> </a>
+					<figcaption>Fig.2 - copyright <a href="https://fitwinkel.nl/artikel/21068/virtufit-pvc-kettlebell-10-kg-zwart.html">Fitwinkel</a> </figcaption>
+				</figure>
+				<h3>1 10kg kettlebell for the price of &euro;20.</h3>
+			</section>
+			
+			<section id="pricing-section3">
+				<figure>
+					<a href="https://www.inholland.nl/"> <img src="img/bench.jpg" alt="adjustible bench" title="incline bench"> </a>
+					<figcaption>Fig.3 - copyright <a href="https://www.helisports.nl/products/429290/Pivot-Fitness-XB6130-Commercial-Heavy-Duty-Bench.html">Helisports</a> </figcaption>
+				</figure>
+				<h3>1 adjustible bench for the price of &euro;100.</h3>
+			</section>
+			
+		</aside>
+		
+		</main>
+		
+		<footer>
+			<p>&copy; Coen de Vries</p>
+			<aside class="cookie"> 
+				<p> Cookie statement </p>
+			</aside>
+		</footer>
+		
+	</body>
+</html>

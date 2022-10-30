@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta name="description" content="Gym innovations, technologies and innovations">
+		<meta name="keyword" content="gym, supplements, tools, technology, innovations">
+		<meta name="author" content="Coen de Vries">
+		
+		<title>Gym Innovations/Home</title>
+		
+		<link rel="stylesheet" type="text/css" href="css/style.css">
+		<link rel="icon" type="image/x-icon" href="img/favicon.ico">
+	</head>
+	<body>
+	
+		<header class="main-header">
+			<img src="img/logo.png" alt="Bicep curl logo" title="bicep curl logo">
+			<h1>Gym Innovations</h1>
+			<h2>Whats new&#63;</h2>
+		</header>
+		
+		<nav>
+			<img src="img/burger.png" alt="burger menu" title="burger menu">
+			<ul id="menu">
+				<li> <a href="product.html"> Product </a> </li>
+				<li> <a href="pricing.html"> Pricing </a> </li>
+				<li> <a href="contact.html"> Contact </a> </li>
+			</ul>
+		</nav>
+		
+		<main id="main-index">
+		
+			<video muted autoplay loop id="video-ID">
+				<source src="videos/promotion.mp4" type="video/mp4">
+				<source src="videos/promotion.ogg" type="video/ogg">
+				Your browser does not support the video tag.
+			</video>
+			
+			<section>
+			<h3>Gym innovations</h3>
+				<article id="index-article1">
+					<header>
+						<h3> Fitness Apps </h3>
+					</header>
+					<figure>
+						<a href="product.html"> <img src="img/fitness-apps.jpg" alt="Tablet showing information from punching bag" title="tablet showing sports data"> </a>
+						<figcaption>Fig.1 - copyright <a href="https://www.bookeeapp.com/articles/8-fitness-technologies">Bookee</a></figcaption>
+					</figure>
+					<p>
+						A new technology thats being used more and more are fitness apps, these apps collect data from fitness equipment and show it to the user. 
+						Data that is being collected can vary from diet charts and monitoring to tracking footsteps and heartrate &#40;connected with a wearable device ofcourse&#41;.
+						These apps use technologies such as artificial intelligence and machine learning to further perfect the information they give to either a coach or clients.
+					</p>
+					<footer class="article-footer">
+						<a href="https://www.bookeeapp.com/articles/8-fitness-technologies" target="_blank"> More info</a>
+					</footer>
+				</article>
+				
+				<article id="index-article2">
+					<header>
+						<h3> Smart gym equipment </h3>
+					</header>
+					<figure>
+						<a href="product.html"> <img src="img/smart-equipment.jpg" alt="Threadmill with digital interface" title="smart threadmill"> </a>
+						<figcaption>Fig.2 - copyright <a href="https://www.technogym.com/nl-NL/home-gym/">Technogym</a></figcaption>
+					</figure>
+					<p>
+						These new gym machines are equipped with more than just the functions to train, they will also show you how well you are training using a digital interface. 
+						Where the fitness apps will create training schemes and diet patterns, these machines will monitor things like heartrate time training or distanced run.
+						The newest of these machines can also connect to smart apps and show records and progress.
+					</p>
+					<footer class="article-footer">
+						<a href="https://www.technogym.com/nl-NL/home-gym/" target="_blank"> More info</a>
+					</footer>
+				</article>
+				
+				<article id="index-article3">
+					<header>
+						<h3> Online Coaching </h3>
+					</header>
+					<figure>
+						<a href="product.html"> <img src="img/online-coaching.jpg" alt="home workout with online coach" title="home workout"> </a>
+						<figcaption>Fig.3 - copyright <a href="https://www.elevatenutrition.com/online-fitness-coaching/">Elevate</a></figcaption>
+					</figure>
+					<p>
+						Don&#39;t want to rely on specific gym hours or are you to shy to go to the gym&#63; 
+						Maybe online coaching is the thing for you, the services can be live or a video so a 24&#47;7 service is guaranteed, 
+						the rates for a lesson are also lower than its physical counterpart.
+					</p>
+					<footer class="article-footer">
+						<a href="https://www.elevatenutrition.com/online-fitness-coaching/" target="_blank"> More info</a>
+					</footer>
+				</article>
+				
+			</section>
+			
+			<aside>
+				<h3> Upcoming gym trends </h3>
+				<ol>
+					<li>Portable technology &#40;wearables&#41;</li>
+					<li>Training from home.</li>
+					<li>Outdoor activities </li>
+					<li>Personal training.</li>
+					<li>High intensity interval training &#40;HIIT&#41;</li>
+				</ol>
+			</aside>
+			
+		</main>
+		
+		<footer>
+			<p>&copy; Coen de Vries</p>
+			<aside class="cookie"> 
+				<p> Cookie statement </p>
+			</aside>
+		</footer>
+
+	</body>
+</html>

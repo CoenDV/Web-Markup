@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<meta name="keyword" content="Student, Computer, webshop" />
+		<meta name="description" content="Student Inc. een denkbeeldig bedrijf dat online computers verkoopt" />
+		<meta name="author" content="Coen de Vries" />
+		
+		<title> Student Inc.</title>
+		
+		<link rel="stylesheet" type="text/css" href="css/ihavestyle.css" />
+	</head>
+	<body>
+	<header>
+
+	</header>	
+	<main style="width:600px; height:400px; background-color:blue; overflow-x: hidden; overflow-y: scroll;" >
+
+		<figure >
+			<img src="img/Bedrijfspand.jpg" alt="kantoor pand" title="Ons bedrijf pand" >
+			<figcaption>Fig.1 - kantoor pand</figcaption>
+		</figure>
+		
+	</main>
+	
+	<footer>
+		<h2> &copy; Student Inc.</h2>
+	</footer>
+	</body>
+</html>

@@ -1,0 +1,7 @@
+Student name: Coen de Vries
+Student number: 668358
+Student class: HAINFVT1
+URL student GitHub website: your GitHub URL (looks like
+https://username.github.io )
+URL student GitHub repository: your GitHub URL (looks like
+https://github.com/username/repositoryname )

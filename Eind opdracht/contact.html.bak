@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta name="description" content="Gym innovations, technologies and innovations">
+		<meta name="keyword" content="gym, supplements, tools, technology, innovations">
+		<meta name="author" content="Coen de Vries">
+		
+		<title>Gym Innovations/Contact</title>
+		
+		<link rel="stylesheet" type="text/css" href="css/style.css">
+		<link rel="icon" type="image/x-icon" href="img/favicon.ico">
+	</head>
+	<body>
+	
+		<header class="main-header">
+			<img src="img/logo.png" alt="Bicep curl logo" title="bicep curl logo">
+			<h1>Gym Innovations</h1>
+			<h2>Whats new&#63;</h2>
+		</header>
+		
+		<nav>
+			<img src="img/burger.png" alt="burger menu" title="burger menu">
+			<ul id="menu">
+				<li> <a href="index.html"> Home </a> </li>
+				<li> <a href="product.html"> Product </a> </li>
+				<li> <a href="pricing.html"> Pricing </a> </li>
+			</ul>
+		</nav>
+		
+		<main id="main-contact">
+			<article>
+				<h3> Contact Information: &#40;&#42;: means field is required&#41; </h3>
+			</article>
+			
+			<form action="contact.php" target="_blank" method="POST">
+				<fieldset>
+					<legend><strong>Please enter your request:</strong></legend>
+				
+					<label for="fullName">Full name: &#42;</label>
+					<input type="text" id="fullName" name="name" required>
+			
+					<label for="email">E-mail address: &#42;</label>
+					<input type="email" id="email" name="email" required>
+			
+					<label for="message">Message: &#42;</label>
+					<input type="text" id="message" name="message" required>
+			
+					<input type="submit" value="Submit">
+				</fieldset>
+			</form>
+			<aside>
+				<section>
+					<figure>
+						<a href="https://www.inholland.nl/"> <img src="img/dumbbells.jpg" alt="2 dumbbells" title="2 variable dumbbells"> </a>
+						<figcaption>Fig.2 - copyright <a href="https://www.fitnessapparaat.nl/artikel/19690/virtufit-verstelbare-dumbbellset-halterset-vinyl-zwart-2-x-15-kg-30-kg.html">Fitnessapparaat</a> </figcaption>
+					</figure>
+					<h3>2 20kg dumbbells for the price of &euro;50.</h3>
+				</section>
+			
+				<section>
+					<figure>
+						<a href="https://www.inholland.nl/"> <img src="img/kettlebell.jpg" alt="10kg kettlebell" title="a 10kg kettlebell"> </a>
+						<figcaption>Fig.1 - copyright <a href="https://fitwinkel.nl/artikel/21068/virtufit-pvc-kettlebell-10-kg-zwart.html">Fitwinkel</a> </figcaption>
+					</figure>
+					<h3>1 10kg kettlebell for the price of &euro;20.</h3>
+				</section>
+			
+				<section>
+					<figure>
+						<a href="https://www.inholland.nl/"> <img src="img/bench.jpg" alt="adjustible bench" title="incline bench"> </a>
+						<figcaption>Fig.3 - copyright <a href="https://www.helisports.nl/products/429290/Pivot-Fitness-XB6130-Commercial-Heavy-Duty-Bench.html">Helisports</a> </figcaption>
+					</figure>
+					<h3>1 adjustible bench for the price of &euro;100.</h3>
+				</section>
+				
+			</aside>
+			
+		</main>
+		
+		<footer>
+			<p>&copy; Coen de Vries</p>
+			<aside class="cookie"> 
+				<p> Cookie statement </p>
+			</aside>
+		</footer>
+		
+	</body>
+</html>
